@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Arch Linux",
+    "value": "arch"
+  },
+  {
+    "label": "Bower",
+    "value": "bower"
+  },
+  {
+    "label": "Composer",
+    "value": "composer"
+  },
+  {
+    "label": "Debian",
+    "value": "debian"
+  },
+  {
+    "label": "Fedora",
+    "value": "fedora"
+  },
+  {
+    "label": "Go Search",
+    "value": "gosearch"
+  },
+  {
+    "label": "Homebrew",
+    "value": "brew"
+  },
+  {
+    "label": "npm",
+    "value": "npm"
+  },
+  {
+    "label": "NuGet",
+    "value": "nuget"
+  },
+  {
+    "label": "Python (PyPi)",
+    "value": "python"
+  },
+  {
+    "label": "R Language",
+    "value": "cran"
+  },
+  {
+    "label": "Rust",
+    "value": "crates"
+  },
+  {
+    "label": "RubyGems",
+    "value": "rubygems"
+  },
+  {
+    "label": "Sample",
+    "value": "sample"
+  }
+]
